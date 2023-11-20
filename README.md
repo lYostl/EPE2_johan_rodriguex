@@ -1,2 +1,3 @@
-# EPE2_johan_rodriguex
+# EPE2
+
 desarrollo de epe2
